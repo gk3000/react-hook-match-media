@@ -4,6 +4,22 @@
   "private": false,
   "main": "App.js",
   "description":"React hook to use Window.matchMedia() as media query in JavaScript ",
+  "bugs": {
+    "url": "https://github.com/gk3000/react-hook-match-media/issues"
+  },
+  "homepage": "https://barcelonacodeschool.com",
+    "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:gk3000/react-hook-match-media.git"
+  },
+    "keywords": [
+    "react",
+    "matchMedia",
+    "react media query",
+    "barcelona code school"
+  ],
+  "author": "GK3000",
+  "license": "ISC",
   "devDependencies": {
     "@babel/cli": ">=7.19.3",
     "@babel/core": ">=7.20.5",
